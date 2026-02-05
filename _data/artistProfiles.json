@@ -1,0 +1,238 @@
+[
+	{
+  "name": "Lina Moreau",
+  "bio": "Lina Moreau is a Paris-based visual artist working with painting and installation.",
+  "description": "Her work explores memory and domestic spaces through abstract compositions and immersive installations.",
+  "website": "https://www.linamoreau.com",
+  "email": "contact@linamoreau.com",
+  "location": {
+    "city": "Paris",
+    "country": "France"
+  },
+  "mediums": ["painting", "installation"],
+  "education": [
+    {
+      "degree": "MFA Fine Arts",
+      "institution": "École Nationale Supérieure des Beaux-Arts",
+      "year": 2018
+    }
+  ],
+  "artworks": [
+    {
+      "title": "Fragments of Silence",
+      "year": 2021,
+      "imageUrl": "https://example.com/artworks/fragments.jpg"
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "Inner Rooms",
+      "year": 2022,
+      "venue": "Galerie Lumière, Paris"
+    }
+  ],
+  "residencies": [
+    {
+      "program": "Cité Internationale des Arts",
+      "location": "Paris, France",
+      "year": 2020
+    }
+  ],
+  "distinctions": [
+    {
+      "title": "Emerging Artist Grant",
+      "organization": "Fondation de France",
+      "year": 2021
+    }
+  ]
+},
+{
+  "name": "Jonas Keller",
+  "bio": "Jonas Keller is a Berlin-based digital artist exploring generative systems.",
+  "description": "Through code and video, Keller investigates authorship, automation, and machine aesthetics.",
+  "website": "https://www.jonaskeller.art",
+  "email": "hello@jonaskeller.art",
+  "location": {
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  "mediums": ["digital", "video"],
+  "education": [
+    {
+      "degree": "BA Media Arts",
+      "institution": "University of the Arts Berlin",
+      "year": 2016
+    }
+  ],
+  "artworks": [
+    {
+      "title": "Synthetic Landscape #4",
+      "year": 2020,
+      "imageUrl": "https://example.com/artworks/synthetic4.png"
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "Code as Medium",
+      "year": 2021,
+      "venue": "Haus der Digitalen Kunst, Berlin"
+    }
+  ],
+  "residencies": [
+    {
+      "program": "ZKM Artist Residency",
+      "location": "Karlsruhe, Germany",
+      "year": 2022
+    }
+  ],
+  "distinctions": [
+    {
+      "title": "Digital Innovation Prize",
+      "organization": "European Media Art Platform",
+      "year": 2023
+    }
+  ]
+},
+{
+  "name": "Amara Okoye",
+  "bio": "Amara Okoye is a sculptor working with reclaimed and industrial materials.",
+  "description": "Her practice reflects on migration, labor, and postcolonial narratives.",
+  "email": "amara.okoye@gmail.com",
+  "location": {
+    "city": "Lagos",
+    "country": "Nigeria"
+  },
+  "mediums": ["sculpture", "mixed media"],
+  "education": [
+    {
+      "degree": "BFA Sculpture",
+      "institution": "University of Nigeria",
+      "year": 2014
+    }
+  ],
+  "artworks": [
+    {
+      "title": "Weight of Movement",
+      "year": 2019,
+      "imageUrl": "https://example.com/artworks/weightmovement.jpg"
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "Reclaimed Futures",
+      "year": 2020,
+      "venue": "Centre for Contemporary Art, Lagos"
+    }
+  ],
+  "residencies": [
+    {
+      "program": "Raw Material Company",
+      "location": "Dakar, Senegal",
+      "year": 2019
+    }
+  ],
+  "distinctions": [
+    {
+      "title": "Best Emerging Sculptor",
+      "organization": "African Art Review",
+      "year": 2020
+    }
+  ]
+},
+{
+  "name": "Marco Rossi",
+  "bio": "Marco Rossi is an Italian photographer documenting urban environments.",
+  "description": "His photography captures everyday life within contemporary architectural spaces.",
+  "website": "https://www.marcorossi.photo",
+  "phone": "+39 333 456 7890",
+  "email": "info@marcorossi.com",
+  "location": {
+    "city": "Milan",
+    "country": "Italy"
+  },
+  "mediums": ["photography"],
+  "artworks": [
+    {
+      "title": "Peripheral Cities",
+      "year": 2022,
+      "imageUrl": "https://example.com/artworks/peripheral.jpg"
+    }
+  ],
+  "exhibitions": [],
+  "education": [],
+  "residencies": [],
+  "distinctions": []
+},
+{
+  "name": "Sofia Alvarez",
+  "bio": "Sofia Alvarez is a performance artist working between body and space.",
+  "description": "Her work examines gender, endurance, and collective memory through live actions.",
+  "email": "sofia.alvarez@artmail.com",
+  "location": {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  "mediums": ["performance", "installation"],
+  "education": [
+    {
+      "degree": "MA Performance Art",
+      "institution": "Universidad Complutense de Madrid",
+      "year": 2017
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "Body as Archive",
+      "year": 2021,
+      "venue": "Matadero Madrid"
+    }
+  ],
+  "residencies": [
+    {
+      "program": "La Casa Encendida Residency",
+      "location": "Madrid, Spain",
+      "year": 2020
+    }
+  ],
+  "distinctions": []
+},
+{
+  "name": "Ethan Walker",
+  "bio": "Ethan Walker is a painter based in Brooklyn, New York.",
+  "description": "His paintings reinterpret everyday scenes through expressive color and gesture.",
+  "website": "https://www.ethanwalker.studio",
+  "email": "ethan.walker@gmail.com",
+  "location": {
+    "city": "New York",
+    "country": "USA"
+  },
+  "mediums": ["painting"],
+  "education": [
+    {
+      "degree": "BFA Painting",
+      "institution": "School of Visual Arts",
+      "year": 2015
+    }
+  ],
+  "artworks": [
+    {
+      "title": "Late Afternoon",
+      "year": 2021,
+      "imageUrl": "https://example.com/artworks/lateafternoon.jpg"
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "Everyday Gestures",
+      "year": 2022,
+      "venue": "Brooklyn Art Space"
+    }
+  ],
+  "distinctions": [
+    {
+      "title": "Young Painters Award",
+      "organization": "New York Art Council",
+      "year": 2021
+    }
+  ]
+}]
