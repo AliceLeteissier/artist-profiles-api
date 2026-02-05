@@ -21,8 +21,8 @@ Artist Profiles API is a RESTful API built with Node.js, Express, and MongoDB at
 ## 1. Clone the repository
 
 bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/AliceLeteissier/artist-profiles-api.git
+cd artist-profiles-api
 
 ---
 
@@ -40,10 +40,11 @@ npm install
 
 Create a file named `config.env` in the  folder "config" and add the following:
 
-
-MONGO_URI=mongodb+srv://examiner:<password>>@art-api.3i8r3yn.mongodb.net/
-PORT=8000
 NODE_ENV=development
+
+PORT=8000 
+
+MONGO_URI= **SECRET URI PROVIDED SEPARATELY**
 
 
 ---
@@ -87,14 +88,15 @@ Note: The MongoDB Atlas database is already populated with sample data for evalu
 
 ---
 
-# 🔐 MongoDB Atlas Configuration
+# MongoDB Atlas Configuration
 
 * The project uses **MongoDB Atlas (cloud database hosted on AWS)**.
 * A dedicated database user has been created for evaluation purposes:
 
 
 Username: examiner
-Password: Course-4-API
+
+Password: **SECRET PASSWORD PROVIDED SEPARATELY**
 
 
 * The IP access list allows connections from any IP for examination purposes.
@@ -103,7 +105,7 @@ Password: Course-4-API
 ---
 
 
-# ⚠️ Notes for Examiner
+# Notes for Examiner
 
 * The API connects to MongoDB Atlas; no local MongoDB installation is required.
 * Sample data is already stored in the cloud database.
