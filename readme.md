@@ -41,7 +41,7 @@ npm install
 Create a file named `config.env` in the  folder "config" and add the following:
 
 
-MONGO_URI=mongodb+srv://examiner:Course-4-API@art-api.3i8r3yn.mongodb.net/
+MONGO_URI=mongodb+srv://examiner:<password>>@art-api.3i8r3yn.mongodb.net/
 PORT=8000
 NODE_ENV=development
 
